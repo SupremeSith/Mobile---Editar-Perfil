@@ -36,7 +36,7 @@ npx expo install react-native-web react-dom @expo/metro-runtime
 npm install -g expo-cli
 
 
-expo install expo-image-picker
+npx expo install expo-image-picker
 
 
 ```
